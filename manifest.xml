@@ -1,0 +1,5 @@
+<package>
+  <description brief="Checks whether underscores at the beginning of types and namespace names are properly handled by oroGen">
+  </description>
+</package>
+
