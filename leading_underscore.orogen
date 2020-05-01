@@ -1,0 +1,7 @@
+name "leading_underscore"
+
+import_types_from 'leading_underscoreTypes.hpp'
+
+task_context "Task" do
+    output_port 'test', '/leading_underscore/_foo/_bar/_LocalType'
+end
